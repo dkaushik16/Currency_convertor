@@ -1,0 +1,7 @@
+Always include "key" attribute in a element while applying loops to that element in react
+  to optimise the performance over the loop
+
+ CUSTOM HOOKS-
+    These are normal javascript functions which can use other hooks inside of it and 
+    contain a common stateful logic that can be reused within multiple components. 
+    These functions are prefixed with the word use. 
